@@ -2,7 +2,7 @@
   <img src="Logo.PNG">
 </h1>
 
-This project is divided in 3 parts, [REST API](#rest-api), [WEB](#web) and [MOBILE](#mobile).
+This project is divided in 3 parts, [REST API](#rest-api), [WEB](#web) and [MOBILE](#mobile). <br/>
 It is composed by a website where entrepreneurs can offer tours in their companies, a mobile app, where people can schedule a visit and the rest api,
 to deal with all the data and logic, sending all requests and responses in real time with no need to reload any screen.
 
